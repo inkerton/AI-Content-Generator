@@ -47,7 +47,7 @@ function UsageTrack() {
             </div>
             <h2 className='text-sm my-2'>350/10,000 credits used</h2>
         </div>
-        <Button variant={'secondary'} className='w-full my-3 text-primary'>Upgrade</Button>
+        <Button variant={'secondary'} className='w-full my-3 text-primary'>Upgrade 2:34:39</Button>
     </div>
   )
 }
